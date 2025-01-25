@@ -1,0 +1,6 @@
+﻿  audiomanager.cpp
+D:\Media Fundamentals\INFO-6046-FINAL-EXAM\finalexam\audiomanager.cpp(169,24): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Media Fundamentals\INFO-6046-FINAL-EXAM\finalexam\audiomanager.cpp(184,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  finalexam.vcxproj -> D:\Media Fundamentals\INFO-6046-FINAL-EXAM\x64\Debug\finalexam.exe
